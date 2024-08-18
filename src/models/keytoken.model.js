@@ -23,7 +23,7 @@ var keytokenSchema = new Schema({
     },
     
 },{
-    collation: COLLECTION_NAME,
+    Collection: COLLECTION_NAME,
     timestamps: true
 });
 
